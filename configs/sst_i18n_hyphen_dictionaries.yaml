@@ -1,0 +1,61 @@
+document: feedback-pipeline-workload
+version: 1
+data:
+  name: i18n - Hyphen Dictionaries
+  description: A set of Hyphenation dictionaries
+  maintainer: sst_i18n
+
+  packages:
+  - hyphen-af
+  - hyphen-as
+  - hyphen-bg
+  - hyphen-bn
+  - hyphen-ca
+  - hyphen-cs
+  - hyphen-cy
+  - hyphen-da
+  - hyphen-de
+  - hyphen-el
+  - hyphen-es
+  - hyphen-eu
+  - hyphen-fa
+  - hyphen-fo
+  - hyphen-fr
+  - hyphen-ga
+  - hyphen-gl
+  - hyphen-grc
+  - hyphen-gu
+  - hyphen-hi
+  - hyphen-hsb
+  - hyphen-hu
+  - hyphen-ia
+  - hyphen-id
+  - hyphen-is
+  - hyphen-it
+  - hyphen-kn
+  - hyphen-ku
+  - hyphen-lt
+  - hyphen-lv
+  - hyphen-mi
+  - hyphen-ml
+  - hyphen-mn
+  - hyphen-mr
+  - hyphen-nl
+  - hyphen-or
+  - hyphen-pa
+  - hyphen-pl
+  - hyphen-pt
+  - hyphen-ro
+  - hyphen-ru
+  - hyphen-sa
+  - hyphen-sk 
+  - hyphen-sl
+  - hyphen-sv
+  - hyphen-ta
+  - hyphen-te
+  - hyphen-tk
+  - hyphen-uk
+  - hyphen-zu
+  
+  labels:
+  - eln
