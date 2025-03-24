@@ -6,14 +6,15 @@ data:
   description: Archive default i18n metapackages.
   maintainer: rhel-sst-display-i18n
   labels:
-    - c10s
+    - eln-candidate
+    - eln
   packages:
     - gtk3-immodule-xim
     - ibus
     - ibus-anthy
     - ibus-hangul
     - ibus-libpinyin
-    - ibus-libzhuyin
+    - ibus-chewing
     - ibus-m17n
     - ibus-table-chinese-array
     - ibus-table-chinese-cangjie
